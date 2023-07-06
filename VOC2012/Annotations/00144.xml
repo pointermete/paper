@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>train</folder>
+	<filename>00144.jpg</filename>
+	<path>C:\Users\pc\Desktop\1\JPEGImages\train\00144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>297</width>
+		<height>292</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>73</ymin>
+			<xmax>227</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

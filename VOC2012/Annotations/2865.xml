@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>2865.jpg</filename>
+	<path>C:\Users\pc\Desktop\1\JPEGImages\train\2865.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>396</ymin>
+			<xmax>1251</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+</annotation>

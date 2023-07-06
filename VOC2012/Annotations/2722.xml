@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>train</folder>
+	<filename>2722.jpg</filename>
+	<path>C:\Users\pc\Desktop\1\JPEGImages\train\2722.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>digital</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>421</ymin>
+			<xmax>359</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

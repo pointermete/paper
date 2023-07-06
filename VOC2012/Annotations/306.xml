@@ -1,0 +1,26 @@
+<annotation>
+	<folder>point meters</folder>
+	<filename>306.jpg</filename>
+	<path>C:\Users\FMVPIngram\Desktop\labellmg\电子钟标注\pointer\point meters\306.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pointer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>31</ymin>
+			<xmax>358</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+</annotation>
